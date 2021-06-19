@@ -1,0 +1,15 @@
+Liam H,3,150,1,W,11,M,12,T,11,G,Noah,G,Connor
+Connor,3,180,1,M,12,T,11,W,10,G,Noah,G,Liam H
+Noah,2,90,1,M,10,T,9,R,12,G,Connor,G,Liam H
+Gideon,4,120,1,M,11,W,11,R,10,R,11
+Valeria,5,120,1,R,10,R,11,R,12,T,10
+Julie,5,90,0,R,10,R,11,R,12,T,10
+Rhiley,5,150,1,R,10,R,11,R,12,T,10
+Patrick,5,120,1,R,10,R,11,R,12,T,10
+Sophia,2,120,1,M,10,T,9,R,12
+Jake,4,120,1,M,11,W,11,R,10,R,11,G,Ethan
+Ethan,4,180,1,M,11,W,11,T,10,T,11,G,Jake
+Brandon,5,90,1,T,10,R,10,R,11,R,12
+Teoni,2,150,1,M,10,T,10,R,12,G,Melody
+Liam Wong Zelaya,5,150,1,T,10,R,10,R,11,R,12
+Melody,3,120,1,G,Teoni,M,12,T,11,W,10
